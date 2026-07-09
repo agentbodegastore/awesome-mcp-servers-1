@@ -437,6 +437,8 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
  
 - <img height="12" width="12" src="https://cdn.zapier.com/zapier/images/favicon.ico" alt="Zapier Logo" /> [Zapier](https://zapier.com/mcp) - Connect your AI Agents to 8,000 apps instantly.
 
+- <img height="12" width="12" src="https://agentbodega.store/favicon.ico" alt="AgentBodega Logo" /> [AgentBodega](https://github.com/agentbodegastore/agentbodega) - MCP server that gives agents a live catalog of x402-payable HTTP tools across search, public data, social media, status checks, media conversion, and agent-readiness workflows.
+
 <br />
 
 ## 💬 <a name="language"></a>Language & Translation
